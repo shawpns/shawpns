@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.youtube.com/c/abhijitshawtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="AbhijitShaw98 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="0a_shaw0 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ShaW | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="ShaW | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ShaW | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ShaW | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -22,4 +22,9 @@
 
 ---
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=shaw2018&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
- 
+---
+
+[youtube]: https://www.youtube.com/c/ABHIJITSHAWTUBE
+[twitter]: https://twitter.com/AbhijitShaw98
+[linkedin]: https://linkedin.com/in/
+[instagram]: https://instagram.com/0a_shaw0
