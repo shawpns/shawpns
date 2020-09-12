@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently playing with CODE
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw and play cricket 🏏 and mobile games 
 
 
 ### Connect with me:
