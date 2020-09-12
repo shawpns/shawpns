@@ -21,10 +21,5 @@
 ### Languages and Tools:
 
 ---
-
-<details>
-  <summary>:zap:Github Stats</summary>
-
-  <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=shaw2018&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=shaw2018&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
  
-</details>
