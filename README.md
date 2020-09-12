@@ -1,9 +1,5 @@
 ### Hi there, Myself Abhijit Shaw
 
-[![Website](https://img.shields.io/youtube/views/ABHIJITSHAWTUBE)](https://www.youtube.com/channel/UCpSINMoznmQgX0UPKbQOecQ)
-
-## I'm a Student!
-
 - 🔭 I’m currently playing with CODE
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to draw and play cricket 🏏 and mobile games 
