@@ -1,4 +1,4 @@
-### Hi there, Myself [Abhijit Shaw][website] 👋
+### Hi there, Myself Abhijit Shaw
 
 [![Website](https://img.shields.io/youtube/views/-hHx7lh1m1w?style=plastic)](https://www.youtube.com/channel/UCpSINMoznmQgX0UPKbQOecQ)
 
