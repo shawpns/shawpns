@@ -1,6 +1,6 @@
 ### Hi there, Myself Abhijit Shaw
 
-[![Website](https://img.shields.io/github/watchers/shaw2018/portfolio?label=Public%20Traffic%20%20%F0%9F%9A%A5&style=plastic)](https://www.youtube.com/channel/UCpSINMoznmQgX0UPKbQOecQ)
+[![Website](https://img.shields.io/youtube/views/ABHIJITSHAWTUBE)](https://www.youtube.com/channel/UCpSINMoznmQgX0UPKbQOecQ)
 
 ## I'm a Student!
 
