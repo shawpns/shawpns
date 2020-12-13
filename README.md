@@ -21,6 +21,6 @@
 
 
 [youtube]: https://www.youtube.com/c/ABHIJITSHAWTUBE
-[twitter]: https://twitter.com/AbhijitShaw98
-[linkedin]: https://linkedin.com/in/
+[twitter]: https://twitter.com/0a_shaw0
+[linkedin]: https://www.linkedin.com/in/abhijit-shaw-6a6a851b6/
 [instagram]: https://instagram.com/0a_shaw0
