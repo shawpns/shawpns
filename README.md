@@ -14,10 +14,6 @@
 
 <br />
 
-### Languages and Tools:
-
----
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=shawpns&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 
 [youtube]: https://www.youtube.com/c/ABHIJITSHAWTUBE
